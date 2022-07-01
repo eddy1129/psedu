@@ -31,6 +31,10 @@ body {
   transform: translateY(25%);
   text-align: center;
 }
+
+#page1_logo img{
+  width: 250px;
+}
 .desc_logo {
   font-family: "Maven Pro", sans-serif;
   font-weight: bold;
